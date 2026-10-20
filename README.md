@@ -1,9 +1,6 @@
 ------------------------------------------------------------------------
-
-editor_options: markdown: wrap: 80 ---
-
 ::: {align="center"}
-<a href="https://www.lib.ncsu.edu/" aria-label="nc state university libraries logo"><img src="assets/notebooks/lib_logo_whiteBG.svg" alt="NC State University Libraries Logo" width="400"/></a>
+<a href="https://www.lib.ncsu.edu/" aria-label="nc state university libraries logo"><img src="images/lib_logo_whiteBG.svg" alt="NC State University Libraries Logo" width="400"/></a>
 
 <h2>NC State University Libraries R Workshops</h2>
 
