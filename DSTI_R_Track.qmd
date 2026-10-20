@@ -884,29 +884,4 @@ celsius2fahr <- function(temp.celsius) {
 temp.celsius <- 35
 temp.fahr <- celsius2fahr(temp.celsius)
 print(temp.fahr)
-
 ```
-
-# Extra Extra Credit
-
-## Modifications to Fine-Calculating Function
-
-The actual fines assessed by the NC State University Libraries can be found [here](https://www.lib.ncsu.edu/borrow/fines). Consider how the fines are assessed. Now, look at the `calculate_fine()` function again.
-
-What modifications would you make to improve the usability of this function and to reduce user error when calling the function (hint: what could go wrong with passing `days_overdue`)? You don't have to implement the changes, but you can if you want!
-
-## Modify the Fine-Calculating Function
-
-Revise the `calculate_fine()` to calculate the correct fine based on the "Item/Fine Type".
-
-Before you start to code, determine the following:
-
-1\. What additional information do you need to pass to the function as a parameter to calculate the fee? Is there anything you need to remove?
-
-2\. Does your return value change?
-
-3\. What kind of control structure do you need to use?
-
-4\. Once you have written your function, how will you test it?
-
-If you are having trouble starting, try walking through the steps of calculating a fine by hand.
