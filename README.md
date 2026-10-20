@@ -29,7 +29,7 @@
 
 The materials for this workshop are stored in GitHub. You can download these materials by clicking on the link below:
 
-\- 📂 [Download Materials](https://github.com/NCSU-Libraries/R_Bootcamp/releases/download/DSTI_R/R.zip)
+\- 📂 [Download Materials]()
 
 \- :octocat: [Link to GitHub Repository](https://go.ncsu.edu/dsti-r)
 
